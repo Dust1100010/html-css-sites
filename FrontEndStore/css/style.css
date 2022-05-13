@@ -264,7 +264,7 @@ h3 {
     /* width, style y color*/
     background-color: transparent;
     color: var(--blanco);
-    font-size: 2rem;
+    font-size: min(2rem, 100%);
     font-family: Arial, Helvetica, sans-serif;
     padding: 1rem;
     appearance: none;
